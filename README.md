@@ -1,8 +1,8 @@
 # Hi, I'm Quincey
 
-**IT Operations → Systems & Security Engineering**
+**IT Specialist · Building toward Systems & Security Engineering**
 
-I hold an **M.S. in Cybersecurity Operations & Leadership** (University of San Diego, 2024) and work in enterprise IT for a consumer company. I support and secure the people, devices, and SaaS platforms a fast-moving company runs on, and I automate the repetitive parts.
+I hold an **M.S. in Cybersecurity Operations & Leadership** (University of San Diego, 2024) and work as an IT Specialist for a consumer company. I support and secure the people, devices, and SaaS platforms a fast-moving company runs on, and I automate the repetitive parts.
 
 ### What I work on
 - **Security operations:** identity and access management, scareware/phishing triage, access governance
