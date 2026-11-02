@@ -13,6 +13,8 @@ I hold an **M.S. in Cybersecurity Operations & Leadership** (University of San D
 ### Start here
 **[IT, Security & Automation Portfolio](https://github.com/QuinceyJackson-CSOL/it-portfolio)**: anonymized case studies from real enterprise work, organized by discipline.
 
+**[IT Morning Kickoff](https://github.com/QuinceyJackson-CSOL/it-morning-kickoff)**: a scheduled, read-only AI agent that triages my email, helpdesk tickets and Slack into one ranked task list before 9 AM. Built with Claude and MCP connectors, with guardrails against prompt injection.
+
 **[Graduate coursework](https://github.com/QuinceyJackson-CSOL/it-portfolio/tree/main/academic)**: hands-on labs in digital forensics, vulnerability scanning, NIST RMF, and threat intelligence · [Course ePortfolio](https://qjacksoncsol23.weebly.com)
 
 ### Currently
