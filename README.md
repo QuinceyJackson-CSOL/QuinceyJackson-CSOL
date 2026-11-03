@@ -20,7 +20,7 @@ I hold an **M.S. in Cybersecurity Operations & Leadership** (University of San D
 ### Currently
 - Building toward Systems Engineer / Security Engineer roles
 - **Certified:** CompTIA Security+ · Google Cloud Cybersecurity Professional Certificate
-- Working toward CompTIA Network+
+- Working toward Okta Certified Professional
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/qjacksonusd/) · [ePortfolio](https://qjacksoncsol23.weebly.com) · qjackson0@gmail.com
